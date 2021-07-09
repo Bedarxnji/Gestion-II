@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Jul 2021 00:54:54 at https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/ -O1 "C:\Users\Melissa\Documents\UPCH\2021-I\Filosofia\Producto\Producto II\Gestion II\Gestion II" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:55:16	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/)
+00:55:16	Error: 	"Not Found" (404) at link https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/ak.m (from https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/)
+00:55:16	Error: 	"Not Found" (404) at link https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/Link -> https://gestion.pe/blog/innovar-o-ser-cambiado/2020/01/yape-plin.html/ (from https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/)
+00:55:16	Error: 	"Not Found" (404) at link https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/Trident/ (from https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/)
+00:55:18	Error: 	"Not Found" (404) at link https://gestion.pe/blog/innovar-o-ser-cambiado/2020/02/plin-yape.html/GET (from static.chartbeat.com/js/chartbeat_mab.js)
+00:55:18	Error: 	"Not Found" (404) at link static.chartbeat.com/js/inpage.css (from https://static.chartbeat.com/js/inpage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 43 links scanned, 36 files written (3298937 bytes overall) [1813301 bytes received at 75554 bytes/sec], 2284270 bytes transferred using HTTP compression in 19 files, ratio 25%, 1.5 requests per connection
+(6 errors, 0 warnings, 0 messages)
